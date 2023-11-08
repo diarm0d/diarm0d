@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 🤠
+
+My name is Diarmuid. I am a Front End Engineer with 3+ years of experience across the marketing & SAAS space. 
+
+
 
 <!--
 **diarm0d/diarm0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
