@@ -1,8 +1,11 @@
 ### Howdy 🤠
 
-My name is Diarmuid. I am a Front End Engineer with 3+ years of experience across the marketing & SAAS space. 
+My name is Diarmuid. I am a Front End Engineer with 3+ years of experience across the marketing & SaaS space. 
 
-
+- 🔭 I’m currently working on building the strongest promotion engine @Talon.One
+- 🌱 I’m currently learning Solidity and node.js
+- 👯 I’m looking to collaborate on exciting projects that test my skills.
+-  📫 How to reach me: odonovan.dev@gmail.com
 
 <!--
 **diarm0d/diarm0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
