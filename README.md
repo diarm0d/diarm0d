@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-My name is Diarmuid. I am a Front End Engineer with 3+ years of experience across the marketing & SaaS space. 
+My name is Diarmuid. I am a Front End Engineer with 4+ years of experience across the marketing & SaaS space. 
 
 - 🔭 I’m currently working on building the strongest promotion engine @Talon.One
 - 🌱 I’m currently learning Next.js, Prisma & Postgres
